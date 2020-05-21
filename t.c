@@ -25,10 +25,10 @@ int main(){
 		scanf("%d", );
 	}
 	
+	// pp
 	for(int i=0; i<var; i++){
 		printf("%d", nArr[var]);
 	}
 	printf("\n");
-
 	return 0;
 }
