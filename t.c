@@ -29,6 +29,6 @@ int main(){
 	for(int i=0; i<var; i++){
 		printf("%d", nArr[var]);
 	}
-	printf("\n");
+	printf("gg\n");
 	return 0;
 }
